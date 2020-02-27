@@ -1,0 +1,403 @@
+2020-01-29 00:00:00
+Colloquium 
+ Prebiotic Astrochemistry in the "THz-Gap" 
+ Susanna L. Widicus Weaver, Emory University
+January 29, 2020
+4:05 pm
+Location: TBD
+Host: Daniel Wolf Savin 
+ Small reactive organic molecules are key intermediates in interstellar chemistry, leading to the formation of biologically-relevant species as stars and planets form.   These molecules are identified in space via their pure rotational spectral fingerprints in the far-IR or terahertz (THz) regime.  Despite their fundamental roles in the formation of life, many of these molecules have not been spectroscopically characterized in the laboratory, and therefore cannot be studied via observational astronomy.  The reason for this lack of fundamental laboratory information is the challenge of spectroscopy in the THz regime combined with the challenge of studying unstable molecules.  Our laboratory research involves characterization of astrophysically-relevant unstable species, including small radicals that are the products of photolysis reactions, organic ions formed via plasma discharges, and small reactive organics that form via O(1D) insertion reactions.  Our observational astronomy research seeks to examine the chemical mechanisms at play in a range of interstellar environments and to identify chemical tracers that can be used as clocks for the star-formation process.  In this seminar, I will present recent results from our laboratory and observational studies that examine prebiotic chemistry in the interstellar medium.  I will discuss these results in the broader context of my integrative research program that encompasses laboratory spectroscopy, observational astronomy, and astrochemical modeling. 
+ http://www.astro.columbia.edu/event?eid=659 
+
+
+2020-02-06 00:00:00
+Colloquium 
+ Fast Radio Bursts (NOTE SPECIAL DATE!) 
+ Jason Hessels, University of Amsterdam & ASTRON
+February 6, 2020
+4:05 pm
+Location: Pupin 1402
+Host: Brian Metzger 
+ Fast radio bursts (FRBs) are millisecond-duration radio flashes of unknown physical origin.  We now know that they originate at cosmological distances and hence must be exceptionally luminous.  As such, FRBs promise to provide a new view of extreme astrophysics in action.  At the same time, FRBs also promise to be unique probes of the ionised material within and between galaxies.  Though only a hundred FRBs have been published to date, their all-sky event rate is estimated to be in the thousands per day.  A new generation of wide-field radio telescopes has started to detect FRBs in earnest, and distributed radio telescope arrays are providing the necessary localisation precision to identify host galaxies.  Nonetheless, FRBs remain enigmatic.  While some sources produce repeat bursts, most have only been seen once.  Could there be multiple types of FRB sources?  I will present our current observational understanding in this rapidly evolving field, and comment on how we can differentiate between the dozens of proposed FRB models. 
+ http://www.astro.columbia.edu/event?eid=656 
+
+
+2020-02-12 00:00:00
+Colloquium 
+ Arlin P. S. Crotts Radical Hypothesis Lecture: Dark Stars 
+ Katherine Freese, UTexas
+February 12, 2020
+4:05 pm
+Location: Pupin 1402
+Host: Kathryn Johnston 
+ The first phase of stellar evolution in the history of the
+Universe may be Dark Stars (DS), powered by dark matter heating rather than
+by nuclear fusion. Weakly Interacting Massive Particles which can be their own antipartners can collect inside the first stars and annihilate to produce
+a heat source that powers the stars.  A new stellar phase results, a Dark Star, which lasts as long as there is dark matter fuel, with lifetimes from millions to billions of years. Dark Stars, while made primarily of hydrogen and helium, are powered by dark matter. They are very bright diffuse puffy objects and grow to be very massive. In fact, they can grow up to ten million solar masses with up to ten billion solar luminosities. Such objects can be seen in James Webb Space Telescope. Once the dark matter fuel is exhausted, the DS becomes a heavy main sequence star and eventually collapses to form massive black holes that may provide seeds for supermassive black holes observed at early times as well as in galaxies today. 
+ http://www.astro.columbia.edu/event?eid=667 
+
+
+2020-02-19 00:00:00
+Colloquium 
+ Red Supergiants: New Perspectives on Dying Stars 
+ Emily Levesque, UWashington
+February 19, 2020
+4:05 pm
+Location: TBD
+Host: Mike Hahn 
+ Red supergiants (RSGs) are the helium-fusing descendants of moderately massive (10-25Mo) stars. As the coldest and largest (in physical size) members of the massive star population, these evolved stars serve as ideal "magnifying glasses" for scrutinizing our current understanding of massive stars and their role as supernova progenitors. RSGs are the observationally-confirmed progenitors of Type II-P, an intermediate evolutionary phase in the lifetimes of some stripped-envelope SN progenitors, and a crucial step in the formation and population statistics of massive interacting binaries (including those that will ultimately produce compact object binaries and gravitational waves). This talk will provide an overview of our field's current knowledge of RSGs, identify some of the most pressing open questions about these stars and their role as supernova progenitors, and consider the importance of RSGs in the coming decade as the next generation of observatories comes online. 
+ http://www.astro.columbia.edu/event?eid=668 
+
+
+2020-02-28 00:00:00
+Colloquium 
+ Lessons from the History of Physical Cosmology (Big Apple Colloquium) 
+ James Peebles, Princeton University
+February 28, 2020
+3:00 pm
+Location: Davis auditorium (TBC)
+Host: Zoltan Haiman 
+ I will review major steps to the establishment of the LambdaCDM cosmology, with particular attention to the many examples of ideas and lines of research that were introduced on more than one occasion, independently apart from our shared culture of physical science. I gather it took a sociologist, Robert Merton, to see that this is a phenomenon that deserves a name: "multiples in scientific discovery." I will propose lessons on the nature of our enterprise of natural science to be drawn from the many examples of this phenomenon in cosmology. 
+ http://www.astro.columbia.edu/event?eid=672 
+
+
+2020-03-04 00:00:00
+Colloquium 
+ Blast from the Past: Impact of Ultraviolet Emission and Flaring on Exoplanetary Systems and their Habitability 
+ Evgenya Shkolnik, Arizona State University
+March 4, 2020
+4:05 pm
+Location: 1402 Pupin
+Host: Marcel Agüeros 
+ Roughly seventy-five billion low-mass stars (a.k.a. M dwarfs) in our galaxy host at least one small planet in the habitable zone (HZ). The stellar ultraviolet (UV) radiation from M dwarfs is strong and highly variable, and impacts planetary atmospheric loss, composition and habitability.  These effects are amplified by the extreme proximity of their HZs. We now know that these planets are exposed to superflares daily in their first ~100 Myr. Knowing the UV environments of M dwarf planets of all sizes is crucial to understand their atmospheric composition and evolution, providing the needed context for measured exoplanet spectra; while for HZ terrestrial planets, characterization of the UV provides a key parameter in a planet’s potential to be habitable as well as discriminating between biological and abiotic sources for observed biosignatures.  Our efforts to study the UV photometrically and spectroscopically of such planetary systems employ past, present and future space telescopes: the Galaxy Evolution Explorer (GALEX), the Hubble Space Telescope (HST), and the upcoming NASA-funded Star-Planet Activity Research CubeSat (SPARCS), due for launch at the beginning of 2022. SPARCS will be a 6U CubeSat completely devoted to continuous photometric monitoring of M stars, measuring their variability, flare rates and evolution, while also being a pathfinder for much-needed future UV missions. 
+ http://www.astro.columbia.edu/event?eid=674 
+
+
+2020-03-11 00:00:00
+Colloquium 
+ TBA - Foucart 
+ Francois Foucart, UNH
+March 11, 2020
+4:05 pm
+Location: TBD
+Host: Lorenzo Sironi 
+ TBA 
+ http://www.astro.columbia.edu/event?eid=675 
+
+
+2020-03-25 00:00:00
+Colloquium 
+ TBA - Munoz-Jaramillo 
+ Andres Munoz-Jaramillo, SWRI
+March 25, 2020
+4:05 pm
+Location: TBD
+Host: Mike Hahn 
+ TBA 
+ http://www.astro.columbia.edu/event?eid=676 
+
+
+2020-04-01 00:00:00
+Colloquium 
+ TBA - Clark 
+ Susan Clark, IAS Princeton
+April 1, 2020
+4:05 pm
+Location: TBD
+Host: Mary Putman 
+ TBA 
+ http://www.astro.columbia.edu/event?eid=677 
+
+
+2020-04-08 00:00:00
+Colloquium 
+ TBA - Roederer 
+ Ian Roederer, UMichigan
+April 8, 2020
+4:05 pm
+Location: TBD
+Host: Kathryn Johnston 
+ TBA 
+ http://www.astro.columbia.edu/event?eid=678 
+
+
+2020-04-15 00:00:00
+Colloquium 
+ TBA - Chandran 
+ Ben Chandran, UNH
+April 15, 2020
+4:05 pm
+Location: TBD
+Host: Luca Comisso 
+ TBA 
+ http://www.astro.columbia.edu/event?eid=679 
+
+
+2020-04-22 00:00:00
+Colloquium 
+ TBA - Lopez 
+ Laura Lopez, Ohio State University
+April 22, 2020
+4:05 pm
+Location: TBD
+Host: Kathryn Johnston 
+ TBA 
+ http://www.astro.columbia.edu/event?eid=680 
+
+
+2020-04-29 00:00:00
+Colloquium 
+ Bishop Lecture 
+ Debra Fischer, Yale University
+April 29, 2020
+4:05 pm
+Location: TBD
+Host: David Schiminovich 
+ TBA 
+ http://www.astro.columbia.edu/event?eid=681 
+
+
+Upcoming Event - Public Talk and Stargazing
+
+How Gravitational Waves Pointed Us to the Origin of Gold
+Brian Metzger
+February 14th, 2020 7pm
+301 Pupin Hall
+Upcoming Event - Public Talk and Stargazing
+
+Drifting Stars: Migration in the Milky Way
+Chris Carr 
+February 21st, 2020 7pm
+301 Pupin Hall
+Upcoming Event - Public Talk and Stargazing
+
+Heart of Darkness: Unraveling the Mysteries of the Invisible Universe
+Jerry Ostriker 
+March 13th, 2020 8pm
+301 Pupin Hall
+Upcoming Event - Public Talk and Stargazing
+
+Betelgeuse, Betelgeuse, Betelgeuse! The tumultuous life and death of massive stars
+Matteo Cantiello (Flatiron Institute)
+March 27th, 2020 8pm
+301 Pupin Hall
+Upcoming Event - Public Talk and Stargazing
+
+Art and Time: Axial precession, archaeastronomy, and marking a desert nuclear waste site (WIPP) for the next ten millennia
+Madeline Sunley (Artist)
+April 3rd, 2020 8pm
+301 Pupin Hall
+Upcoming Event - Public Talk and Stargazing
+
+Our Universe, in Another Light
+Kim Arcand (NASA Chandra X-ray Observatory)
+April 17th, 2020 8pm
+301 Pupin Hall
+Upcoming Event - Public Talk and Stargazing
+
+A Brief History of Chemistry in the Cosmos
+Daniel Wolf Savin
+May 1st, 2020 8pm
+301 Pupin Hall
+Fast Radio Bursts (NOTE SPECIAL DATE!)
+2020-01-29 00:00:00
+Colloquium 
+ Prebiotic Astrochemistry in the "THz-Gap" 
+ Susanna L. Widicus Weaver, Emory University
+January 29, 2020
+4:05 pm
+Location: TBD
+Host: Daniel Wolf Savin 
+ Small reactive organic molecules are key intermediates in interstellar chemistry, leading to the formation of biologically-relevant species as stars and planets form.   These molecules are identified in space via their pure rotational spectral fingerprints in the far-IR or terahertz (THz) regime.  Despite their fundamental roles in the formation of life, many of these molecules have not been spectroscopically characterized in the laboratory, and therefore cannot be studied via observational astronomy.  The reason for this lack of fundamental laboratory information is the challenge of spectroscopy in the THz regime combined with the challenge of studying unstable molecules.  Our laboratory research involves characterization of astrophysically-relevant unstable species, including small radicals that are the products of photolysis reactions, organic ions formed via plasma discharges, and small reactive organics that form via O(1D) insertion reactions.  Our observational astronomy research seeks to examine the chemical mechanisms at play in a range of interstellar environments and to identify chemical tracers that can be used as clocks for the star-formation process.  In this seminar, I will present recent results from our laboratory and observational studies that examine prebiotic chemistry in the interstellar medium.  I will discuss these results in the broader context of my integrative research program that encompasses laboratory spectroscopy, observational astronomy, and astrochemical modeling. 
+ http://www.astro.columbia.edu/event?eid=659 
+
+
+2020-02-06 00:00:00
+Colloquium 
+ Fast Radio Bursts (NOTE SPECIAL DATE!) 
+ Jason Hessels, University of Amsterdam & ASTRON
+February 6, 2020
+4:05 pm
+Location: Pupin 1402
+Host: Brian Metzger 
+ Fast radio bursts (FRBs) are millisecond-duration radio flashes of unknown physical origin.  We now know that they originate at cosmological distances and hence must be exceptionally luminous.  As such, FRBs promise to provide a new view of extreme astrophysics in action.  At the same time, FRBs also promise to be unique probes of the ionised material within and between galaxies.  Though only a hundred FRBs have been published to date, their all-sky event rate is estimated to be in the thousands per day.  A new generation of wide-field radio telescopes has started to detect FRBs in earnest, and distributed radio telescope arrays are providing the necessary localisation precision to identify host galaxies.  Nonetheless, FRBs remain enigmatic.  While some sources produce repeat bursts, most have only been seen once.  Could there be multiple types of FRB sources?  I will present our current observational understanding in this rapidly evolving field, and comment on how we can differentiate between the dozens of proposed FRB models. 
+ http://www.astro.columbia.edu/event?eid=656 
+
+
+2020-02-12 00:00:00
+Colloquium 
+ Arlin P. S. Crotts Radical Hypothesis Lecture: Dark Stars 
+ Katherine Freese, UTexas
+February 12, 2020
+4:05 pm
+Location: Pupin 1402
+Host: Kathryn Johnston 
+ The first phase of stellar evolution in the history of the
+Universe may be Dark Stars (DS), powered by dark matter heating rather than
+by nuclear fusion. Weakly Interacting Massive Particles which can be their own antipartners can collect inside the first stars and annihilate to produce
+a heat source that powers the stars.  A new stellar phase results, a Dark Star, which lasts as long as there is dark matter fuel, with lifetimes from millions to billions of years. Dark Stars, while made primarily of hydrogen and helium, are powered by dark matter. They are very bright diffuse puffy objects and grow to be very massive. In fact, they can grow up to ten million solar masses with up to ten billion solar luminosities. Such objects can be seen in James Webb Space Telescope. Once the dark matter fuel is exhausted, the DS becomes a heavy main sequence star and eventually collapses to form massive black holes that may provide seeds for supermassive black holes observed at early times as well as in galaxies today. 
+ http://www.astro.columbia.edu/event?eid=667 
+
+
+2020-02-19 00:00:00
+Colloquium 
+ Red Supergiants: New Perspectives on Dying Stars 
+ Emily Levesque, UWashington
+February 19, 2020
+4:05 pm
+Location: TBD
+Host: Mike Hahn 
+ Red supergiants (RSGs) are the helium-fusing descendants of moderately massive (10-25Mo) stars. As the coldest and largest (in physical size) members of the massive star population, these evolved stars serve as ideal "magnifying glasses" for scrutinizing our current understanding of massive stars and their role as supernova progenitors. RSGs are the observationally-confirmed progenitors of Type II-P, an intermediate evolutionary phase in the lifetimes of some stripped-envelope SN progenitors, and a crucial step in the formation and population statistics of massive interacting binaries (including those that will ultimately produce compact object binaries and gravitational waves). This talk will provide an overview of our field's current knowledge of RSGs, identify some of the most pressing open questions about these stars and their role as supernova progenitors, and consider the importance of RSGs in the coming decade as the next generation of observatories comes online. 
+ http://www.astro.columbia.edu/event?eid=668 
+
+
+2020-02-28 00:00:00
+Colloquium 
+ Lessons from the History of Physical Cosmology (Big Apple Colloquium) 
+ James Peebles, Princeton University
+February 28, 2020
+3:00 pm
+Location: Davis auditorium (TBC)
+Host: Zoltan Haiman 
+ I will review major steps to the establishment of the LambdaCDM cosmology, with particular attention to the many examples of ideas and lines of research that were introduced on more than one occasion, independently apart from our shared culture of physical science. I gather it took a sociologist, Robert Merton, to see that this is a phenomenon that deserves a name: "multiples in scientific discovery." I will propose lessons on the nature of our enterprise of natural science to be drawn from the many examples of this phenomenon in cosmology. 
+ http://www.astro.columbia.edu/event?eid=672 
+
+
+2020-03-04 00:00:00
+Colloquium 
+ Blast from the Past: Impact of Ultraviolet Emission and Flaring on Exoplanetary Systems and their Habitability 
+ Evgenya Shkolnik, Arizona State University
+March 4, 2020
+4:05 pm
+Location: 1402 Pupin
+Host: Marcel Agüeros 
+ Roughly seventy-five billion low-mass stars (a.k.a. M dwarfs) in our galaxy host at least one small planet in the habitable zone (HZ). The stellar ultraviolet (UV) radiation from M dwarfs is strong and highly variable, and impacts planetary atmospheric loss, composition and habitability.  These effects are amplified by the extreme proximity of their HZs. We now know that these planets are exposed to superflares daily in their first ~100 Myr. Knowing the UV environments of M dwarf planets of all sizes is crucial to understand their atmospheric composition and evolution, providing the needed context for measured exoplanet spectra; while for HZ terrestrial planets, characterization of the UV provides a key parameter in a planet’s potential to be habitable as well as discriminating between biological and abiotic sources for observed biosignatures.  Our efforts to study the UV photometrically and spectroscopically of such planetary systems employ past, present and future space telescopes: the Galaxy Evolution Explorer (GALEX), the Hubble Space Telescope (HST), and the upcoming NASA-funded Star-Planet Activity Research CubeSat (SPARCS), due for launch at the beginning of 2022. SPARCS will be a 6U CubeSat completely devoted to continuous photometric monitoring of M stars, measuring their variability, flare rates and evolution, while also being a pathfinder for much-needed future UV missions. 
+ http://www.astro.columbia.edu/event?eid=674 
+
+
+2020-03-11 00:00:00
+Colloquium 
+ TBA - Foucart 
+ Francois Foucart, UNH
+March 11, 2020
+4:05 pm
+Location: TBD
+Host: Lorenzo Sironi 
+ TBA 
+ http://www.astro.columbia.edu/event?eid=675 
+
+
+2020-03-25 00:00:00
+Colloquium 
+ TBA - Munoz-Jaramillo 
+ Andres Munoz-Jaramillo, SWRI
+March 25, 2020
+4:05 pm
+Location: TBD
+Host: Mike Hahn 
+ TBA 
+ http://www.astro.columbia.edu/event?eid=676 
+
+
+2020-04-01 00:00:00
+Colloquium 
+ TBA - Clark 
+ Susan Clark, IAS Princeton
+April 1, 2020
+4:05 pm
+Location: TBD
+Host: Mary Putman 
+ TBA 
+ http://www.astro.columbia.edu/event?eid=677 
+
+
+2020-04-08 00:00:00
+Colloquium 
+ TBA - Roederer 
+ Ian Roederer, UMichigan
+April 8, 2020
+4:05 pm
+Location: TBD
+Host: Kathryn Johnston 
+ TBA 
+ http://www.astro.columbia.edu/event?eid=678 
+
+
+2020-04-15 00:00:00
+Colloquium 
+ TBA - Chandran 
+ Ben Chandran, UNH
+April 15, 2020
+4:05 pm
+Location: TBD
+Host: Luca Comisso 
+ TBA 
+ http://www.astro.columbia.edu/event?eid=679 
+
+
+2020-04-22 00:00:00
+Colloquium 
+ TBA - Lopez 
+ Laura Lopez, Ohio State University
+April 22, 2020
+4:05 pm
+Location: TBD
+Host: Kathryn Johnston 
+ TBA 
+ http://www.astro.columbia.edu/event?eid=680 
+
+
+2020-04-29 00:00:00
+Colloquium 
+ Bishop Lecture 
+ Debra Fischer, Yale University
+April 29, 2020
+4:05 pm
+Location: TBD
+Host: David Schiminovich 
+ TBA 
+ http://www.astro.columbia.edu/event?eid=681 
+
+
+Upcoming Event - Public Talk and Stargazing
+
+How Gravitational Waves Pointed Us to the Origin of Gold
+Brian Metzger
+February 14th, 2020 7pm
+301 Pupin Hall
+Upcoming Event - Public Talk and Stargazing
+
+Drifting Stars: Migration in the Milky Way
+Chris Carr 
+February 21st, 2020 7pm
+301 Pupin Hall
+Upcoming Event - Public Talk and Stargazing
+
+Heart of Darkness: Unraveling the Mysteries of the Invisible Universe
+Jerry Ostriker 
+March 13th, 2020 8pm
+301 Pupin Hall
+Upcoming Event - Public Talk and Stargazing
+
+Betelgeuse, Betelgeuse, Betelgeuse! The tumultuous life and death of massive stars
+Matteo Cantiello (Flatiron Institute)
+March 27th, 2020 8pm
+301 Pupin Hall
+Upcoming Event - Public Talk and Stargazing
+
+Art and Time: Axial precession, archaeastronomy, and marking a desert nuclear waste site (WIPP) for the next ten millennia
+Madeline Sunley (Artist)
+April 3rd, 2020 8pm
+301 Pupin Hall
+Upcoming Event - Public Talk and Stargazing
+
+Our Universe, in Another Light
+Kim Arcand (NASA Chandra X-ray Observatory)
+April 17th, 2020 8pm
+301 Pupin Hall
+Upcoming Event - Public Talk and Stargazing
+
+A Brief History of Chemistry in the Cosmos
+Daniel Wolf Savin
+May 1st, 2020 8pm
+301 Pupin Hall
